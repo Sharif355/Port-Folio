@@ -117,8 +117,7 @@ main section {
   display: flex;
   gap: 24px;
 }
-.skill-description {
-}
+
 .skill {
   padding: 30px;
   border-radius: 5px;
@@ -166,7 +165,7 @@ footer{
   j
 }
 .footer-column{
-  width: 50%;
+  width: 50% ;
 
 }
 .contact input ,textarea{
