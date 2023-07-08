@@ -53,9 +53,10 @@ nav a {
 /* Header Related Styles */
 .header {
   background: #fff8f3;
-  background-image: url("/Port-folio/images/images/header_bg.png");
+  background-image: url("/Port-folio/images/images/header_bg.png"),url('../images/images/developer.png');
   background-repeat: no-repeat;
-  background-position: bottom right;
+  background-position: bottom right,top left;
+
 }
 .banner {
   padding: 30px 30px 0px 150px;
